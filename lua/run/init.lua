@@ -1,4 +1,4 @@
-
+local M = {
 	config = {
 		auto_save = false,
 		notification_format = nil,
